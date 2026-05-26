@@ -46,8 +46,8 @@ Student developer building hardware-software integrated systems.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=null301&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=null301&layout=compact&theme=transparent&hide_border=true)
+[![GitHub Stats](https://ghstats.dev/api/card?username=null-301&theme=default&hide_border=true)](https://github.com/rowkav09/GitHub-profile-stats)
+[![Top Languages](https://ghstats.dev/api/langs?username=null-301&theme=default&layout=bar&hide_border=true)](https://github.com/rowkav09/GitHub-profile-stats)
 
 </div>
 
