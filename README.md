@@ -46,8 +46,8 @@ Student developer building hardware-software integrated systems.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bluzy72&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bluzy72&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=null301&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=null301&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
