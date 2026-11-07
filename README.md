@@ -14,9 +14,9 @@ Student developer building hardware-software integrated systems.
 ## About
 
 - Hobby developer currently in the secondary education curriculum
-- Interested in data analysis, server development, and embedded systems
-- Building projects that connect sensors, hardware, and software
-- Preparing for KOI Round 2 with Python
+- Interested in neural network, server development, and embedded systems
+- Focused on building production-ready workflows designed for seamless deployment
+- Hands-on experience assembling server racks and configuring custom network infrastructure
 
 ## Tech
 
@@ -27,11 +27,13 @@ Student developer building hardware-software integrated systems.
 
 ## Currently Learning
 
-- Python-based algorithmic problem solving
 - Data analysis
 - Server development with Node.js
+- Artificial neural network quantization (QAT, PTQ)
 
-## Algorithm
+## Algorithm - Inactive
+
+99th place at the 2026 KOI middle school division second round
 
 [![solved.ac](https://img.shields.io/badge/solved.ac-000000?style=flat-square&logo=solvedotac&logoColor=white)](https://solved.ac/profile/bluzy72)
 [![JUNGOL](https://img.shields.io/badge/JUNGOL-0066CC?style=flat-square)](https://jungol.co.kr/account/136799)
